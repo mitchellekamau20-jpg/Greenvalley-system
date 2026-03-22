@@ -1,2 +1,0 @@
-﻿# Greenvalley-system
-this is a group project on a food production system aiming to solve the problem of hunger and desertification

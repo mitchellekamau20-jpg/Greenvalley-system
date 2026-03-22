@@ -1,1 +1,13 @@
-env
+ # Virtual environment
+venv/
+env/
+
+# Python files
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# Sensitive information (use environment variables for SECRET_KEY, passwords, etc.)
+.env
